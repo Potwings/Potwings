@@ -3,6 +3,7 @@
 ### Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygk0719@gmaIl.com)](mailto:ygk0719@gmaIl.com)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ygk1995)](https://solved.ac/ygk1995)
 <!--
 **Potwings/Potwings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
